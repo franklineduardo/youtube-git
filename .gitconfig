@@ -1,0 +1,6 @@
+[user]
+	name = Franklin Dos Santos
+	email = franklineduardo2912@gmail.com
+	ui = true
+[core]
+	editor = code --wait
